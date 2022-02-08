@@ -1,4 +1,10 @@
 # Markdown-demo
+
+# Resources 
+1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+2. [Tables](https://www.tablesgenerator.com/markdown_tables)
+
 <!-- Naming -->
 # Heading 1
 ## Heading 2
